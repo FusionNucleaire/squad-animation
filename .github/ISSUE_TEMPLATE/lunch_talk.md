@@ -12,7 +12,7 @@ type: task
 > Merci de remplir dans la mesure du possible les paragraphes suivants avec les informations que vous avez.
 > Si vous n'avez pas toutes les informations, ce n'est pas grave, vous pourrez mettre à jour au fur et à mesure. (J'espère quand même que vous connaissez votre nom ^)
 ## Titre de la masterclass
-> Mettre ici le titre tel que vous voulez le voir apparaître sur Meetup
+> Mettre ici le titre tel que vous voulez le voir apparaître sur Meetup (80 caractères max)
 
 ## Nom des intervenantes ou intervenants
 > Mettre ici le nom de la personne qui va faire la conférence tel que vous voulez le voir apparaître sur Meetup
