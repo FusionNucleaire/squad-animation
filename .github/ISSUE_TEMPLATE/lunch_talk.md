@@ -23,5 +23,5 @@ type: task
 ## Description de la masterclass
 > Mettre ici la description de la masterclass telle que vous voulez la voir apparaître sur Meetup
 
-## Nom des animatrices présentes ou animateurs présents le jour J
+## Nom des animatrices ou animateurs présents le jour J
 > Sera précisé plus tard en fonction des disponibilités de la squad animation.
